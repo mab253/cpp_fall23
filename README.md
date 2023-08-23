@@ -5,7 +5,7 @@
 **Time:** Mondays/Wednesdays 11:00-11:50am (lecture) \
 **Space:** Marshak 117 (lecture) \
 **Recitation:** lab on Fridays (time based on section, CC1 or CC2), w/instructor Chunyu Yuan, NAC 6/311 (CC1) NAC 4/161 (CC2) \
-**Office Hours:** virtual, Tuesdays by appointment, [schedule here](https://www.cal.com/mab253) \
+**Office Hours:** virtual by appointment, [schedule here](https://www.cal.com/mab253) \
 **E-mail:** `mblount@ccny.cuny.edu` \
 City College, City University of New York
 
