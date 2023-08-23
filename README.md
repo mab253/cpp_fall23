@@ -54,7 +54,7 @@ There will be a take-home mid-term exam in this course, and a final programming 
 *Introductions, Hello World!*
 
 **Assignment:** [set-up assignments + survey here](https://github.com/mab253/cpp_fall23/blob/main/week0.md) \
-**SURVEY DUE:** Friday Sept. 1, 5:00pm \
+**SET-UP + SURVEY DUE:** Friday Sept. 1, 5:00pm \
 Also begin zyBooks, Week 1 Readings
 
 ---
