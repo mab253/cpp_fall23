@@ -157,7 +157,7 @@ zyBooks Week 10, Lab: DUE Nov. 10, 11:59pm
 ---
 
 **Week 11: Nov. 13 & Nov. 15** \
-*Objects + Classes, cont.*
+*Objects + Classes, cont.; Pointers Part I*
 
 **Assignments:** \
 zyBooks Week 11, Readings: DUE Nov. 15, 11:59pm \
@@ -166,7 +166,7 @@ zyBooks Week 11 Lab: DUE Nov. 17, 11:59pm
 ---
 
 **Week 12: Nov. 20** \
-*Pointers*
+*Pointers, cont.*
 
 **Assignments:** \
 zyBooks Week 12, Readings: DUE Nov. 21, 11:59pm \
