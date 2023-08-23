@@ -63,7 +63,7 @@ Also begin zyBooks, Week 1 Readings
 *Beginnings of Computing and C++*
 
 **Assignments:** \
-zyBooks Week 1, Readings: DUE Sept. 8, 11:59pm \
+zyBooks Week 1, Readings: DUE Sept. 6, 11:59pm \
 zyBooks Week 1 Lab: DUE Sept. 8, 11:59pm
 
 ---
