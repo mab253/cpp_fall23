@@ -169,7 +169,7 @@ zyBooks Week 11 Lab: DUE Nov. 17, 11:59pm
 *Pointers, cont.*
 
 **Assignments:** \
-zyBooks Week 12, Readings + Lab: DUE Nov. 21, 11:59pm \
+zyBooks Week 12, Readings + Lab: DUE Nov. 21, 11:59pm 
 
 
 ---
