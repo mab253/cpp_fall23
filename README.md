@@ -237,7 +237,7 @@ on late work:
 
 The Wednesday/Friday due dates schedule is set up for us to learn together and keep pace as a class, and I highly encourage that you try and stick to it; students in the past have said that this kind of structure has helped them become better programmers and stay on top of the work. That said, I understand that things happen. For readings and labs, you have a **2-day "grace period", which you may use 3 times during the semester.** If you turn your work in within 48 hours of the deadline for one of these "grace periods," you will not lose any points due to lateness. 
 
-If you use up your 3 grace periods, **any late assignments drop 20% per day, starting after the due time.** (If you submit a zyBook reading 1 hour after the due date, for example, it already drops 20%. If you wait another 24 hours, it drops 40%.) 
+If you use up your 3 grace periods, **any late assignments drop 10% per day, starting after the due time.** (If you submit a zyBook reading 1 hour after the due date, for example, it already drops 10%. If you wait another 24 hours, it drops 20%.) 
 
 If you have a reason for needing an **extension (where you will receive full points)**, please reach out to me **_before_** the due date for an assignment. 
 
