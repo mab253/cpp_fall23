@@ -168,7 +168,7 @@ zyBooks Week 11 Lab: DUE Nov. 17, 11:59pm
 **Week 12: Nov. 20** \
 *Pointers, cont.*
 
-NO CLASS on Nov. 22, holiday
+**NO CLASS** on Nov. 22, holiday
 
 **Assignments:** \
 zyBooks Week 12, Readings + Lab: DUE Nov. 21, 11:59pm 
