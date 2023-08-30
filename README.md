@@ -243,7 +243,7 @@ If you have a reason for needing an **extension (where you will receive full poi
 
 **✉️ To receive credit for any late work (including using a grace period), you will need to e-mail me once you have completed it.**
 
-**You may only use the grace period or late work policy for reading homework and labs. You may not use this for the mid-term or final project.**
+**💥 You may only use the grace period or late work policy for reading homework and labs. You may not use this for the mid-term or final project.**
 
 ## academic honesty and integrity:
 
