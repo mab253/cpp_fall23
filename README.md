@@ -241,7 +241,7 @@ If you use up your 3 grace periods, **any late assignments drop 10% per day, sta
 
 If you have a reason for needing an **extension (where you will receive full points)**, please reach out to me **_before_** the due date for an assignment. 
 
-**✉️ To receive credit for any late work (including using a grace period), you will need to e-mail me once you have completed it.**
+**🟠 ➡️ To receive credit for any late work (including using a grace period), you will need to [fill out this form](https://airtable.com/appHSeC3WYz90T4vD/shrW4gWkLdisJD6Jo) once you have completed it.**
 
 **💥 You may only use the grace period or late work policy for reading homework and labs. You may not use this for the mid-term or final project.**
 
