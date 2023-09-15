@@ -1,6 +1,8 @@
 ## 🤖 other resources: week 2
 
 other practice + info on variables, data types, and other topics from this week:
+- 🖥️ **in-class code**,[dollars to coins](https://replit.com/@mab253/convert-to-coins#main.cpp)
+- 🖥️ **in-class code**, [einstein, mass-energy equivalence](https://replit.com/@mab253/einstein#main.cpp)
 - codeacademy c++, "[Variables](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/introduction)" (free course)
 - codeacademy c++ on "[Data Types](https://www.codecademy.com/resources/docs/cpp/data-types?page_ref=catalog)"
 - harvard cs50 (video) on [Integer Overflow](https://video.cs50.io/U29J1tXcPqo?screen=S5uYVc7bm0o&start=8011)
