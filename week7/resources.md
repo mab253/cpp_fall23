@@ -7,3 +7,4 @@ other practice + info on vectors/arrays and other topics this week:
 - codecademy, [Arrays](https://www.codecademy.com/article/cpp-arrays) reference sheet
 - codecademy, [C-strings](https://www.codecademy.com/resources/docs/c/strings) reference sheet
 - [Caesar shift](https://www.youtube.com/watch?v=sMOZf4GN3oc&list=PLSQl0a2vh4HA50QhFIirlEZRXG4yjcoGM&) short video, Journey into Cryptography (Brit Cruise)
+- [Caesar shift online wheel](https://computerscienced.co.uk/site/caesar-cipher-wheel/caesar-cipher/#google_vignette) illustration
