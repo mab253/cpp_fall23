@@ -6,7 +6,7 @@
 **Space:** Marshak 117 (lecture) \
 **Recitation:** lab on Fridays (time based on section, CC1 or CC2), w/instructor Chunyu Yuan, NAC 7107 \
 **Office Hours:** virtual by appointment, [schedule here](https://www.cal.com/mab253) \
-**E-mail:** `mblount@ccny.cuny.edu` \
+**E-mail:** Madeline Blount - `mblount@ccny.cuny.edu`, Chunyu Yuan - `cyuan1@gradcenter.cuny.edu` \
 City College, City University of New York
 
 ## course description
