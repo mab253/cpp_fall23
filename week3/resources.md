@@ -1,7 +1,7 @@
 ## 🤖 other resources: week 3
 
 other practice + info on logic & conditionals and other topics this week:
-- 🖥️ **in-class code**, [letter guess game](https://replit.com/@mab253/letter-guess)
+- 🖥️ **in-class code**, [letter guess game](https://replit.com/@mab253/letter-guess#main.cpp)
 - codeacademy c++, "[Conditionals and Logic](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/introduction)" (free course)
 - codeacademy c++ review of "[Conditionals](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-conditionals-and-logic/exercises/review)"
 - codeacademy c++ quick reference of [`switch` & conditionals](https://www.codecademy.com/resources/docs/cpp/conditionals)
