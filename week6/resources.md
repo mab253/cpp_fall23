@@ -2,7 +2,7 @@
 
 other practice + info on vectors/arrays and other topics this week:
 
-- 🖥️ **in-class code** [random ghost skyline](https://replit.com/@mab253/ghostSkyline)
+- 🖥️ **in-class code** [random ghost skyline](https://replit.com/@mab253/ghostSkyline#main.cpp)
 - codeacademy [Introduction to Vectors](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/introduction-to-vectors), code practice, free course
 - codeacademy, [Vectors](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-vectors/cheatsheet) reference sheet
 - Harvard CS50 on [Arrays](https://video.cs50.io/K1yC1xshF40) video, 14 min. (note this is about C, but very similar!)
