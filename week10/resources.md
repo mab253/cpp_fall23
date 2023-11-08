@@ -2,6 +2,8 @@
 
 practice resources for classes + other topics this week:
 - **in-class code 🖥️**: [Movies, classes/objects example](https://replit.com/@mab253/movies-objects#main.cpp)
+- **in-class code 🖥️**: [Neighbor/health app, classes/objects example](https://replit.com/@mab253/healthData-classes#main.cpp) - all in 1 file example
+- **in-class code 🖥️**: [Neighbor/health app, classes/objects example](https://replit.com/@mab253/healthData-classes2#main.cpp) - MULTIPLE FILES example
 - Codecademy reference sheet for [Classes + Objects](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-classes-and-objects/cheatsheet)
 - Codecademy, "[Why Object-Oriented Programming](https://www.codecademy.com/courses/learn-c-plus-plus/articles/cpp-object-oriented-programming)"
 - Codecademy class and object-oriented programming practice project
