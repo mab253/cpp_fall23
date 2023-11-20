@@ -171,7 +171,8 @@ zyBooks Week 11 Lab: DUE Nov. 17, 11:59pm
 **NO CLASS** on Nov. 22, holiday
 
 **Assignments:** \
-zyBooks Week 12, Readings + Lab: DUE Nov. 21, 11:59pm 
+zyBooks Week 12, Readings + Lab: DUE Nov. 21, 11:59pm \
+_💥 you may turn this in on Wed. Nov. 22, 11:59pm instead_
 
 
 ---
