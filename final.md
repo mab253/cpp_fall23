@@ -52,6 +52,7 @@ After the file upload, your program will need to analyze and output the followin
 5. Calculate the farthest distance between two 2D points in the dataset
 6. Calculate the farthest distance between two 3D points in the dataset
 7. Write at least 6 functions outside of `main` to accomplish these tasks
+8. You may need to research some new methods in order to solve these problems - make sure to [cite your sources!](https://github.com/mab253/cpp_fall23/blob/main/citations.md)
 
 ## Your Own Design
 
