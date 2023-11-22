@@ -8,7 +8,7 @@ For your final project in this class, you will code a C++ project from scratch (
 
 There are specific requirements for each option, but all of your final projects will require:
 
-- Work in pairs. Collaboration and [pair programming](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge) is an important skill to learn! Choose someone in your same Friday lab section (either CC1 or CC2) so that you can use that time and space to work together.
+- Work in pairs. Collaboration and [pair programming](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge) are important skills to learn! Choose someone in your same Friday lab section (either CC1 or CC2) so that you can use that time and space to work together.
 
 - Create code in the [Replit](https://replit.com/) environment, so that you can collaborate with your project partner and so that your code can be easily compiled and shared at the end of the semester.
 
@@ -26,11 +26,11 @@ This is a very open-ended project, but your code must include the following:
 - at least 1 game-within-a-game, where your user must play a game or complete a task using `rand()`, the psuedo-random number generator
 - at least 1 variable that changes with your user throughout the gameplay (for example: a score; an inventory of things they are holding; etc.) - and we should have the option to see an output of this score, inventory, etc.
 - at least 1 instance of [ASCII art](https://www.asciiart.eu/)
-- at least 10 "locations," or decision/branch points, for your users to navigate *
+- at least 12 "locations," or decision/branch points, for your users to navigate *
 
 *The game does not have to be as long as Colossal Cave Adventure (there are 140 map "locations" in that game, when the user gets a chance to make a decision!), but this game should be an involved, significant experience to build and to play; it should take us more than 5 minutes to get through the action. Stretch yourself!
 
-A few examples: your user is an astronaut exploring Mars, and she finds a locked safe in a crater and needs to crack the combination to open the safe as part of the mission; OR your user gets a new job counting rats in NYC subway tunnels, and needs to guess which train is coming first to avoid danger; OR your user is a student studying in the CCNY library, who finds a book with a note in it, which leads them to a party where they have to play [Blackjack](https://en.wikipedia.org/wiki/Blackjack), or at the door in order to get in; OR your user is starting a garden, and they have to respond to random acts of weather by choosing the right tools and actions; OR your user is shipwrecked and they have to find their way home, including picking up items on an island and guessing a password in order to stow away on a pirate ship; etc. etc ... this is a chance to be creative and explore a story that you enjoy.
+A few examples: your user is an astronaut exploring Mars, and she finds a locked safe in a crater and needs to crack the combination to open the safe as part of the mission; OR your user gets a new job counting rats in NYC subway tunnels, and needs to guess which train is coming first to avoid danger; OR your user is a student studying in the CCNY library, who finds a book with a note in it, which leads them to a party where they have to play [Blackjack](https://en.wikipedia.org/wiki/Blackjack) at the door in order to get in; OR your user is starting a garden, and they have to respond to random acts of weather by choosing the right tools and actions; OR your user is shipwrecked and they have to find their way home, including picking up items on an island and guessing a password in order to stow away on a pirate ship; etc. etc ... this is a chance to be creative and explore a story that you enjoy.
 
 ## Spatial Data Analyzer
 
@@ -56,7 +56,7 @@ After the file upload, your program will need to analyze and output the followin
 
 ## Your Own Design
 
-Do you have a project idea that you and your partner really want to build? (Maybe something with [openFrameworks](https://openframeworks.cc/), maybe something with cryptography?) You can send me your idea via e-mail or Discord by **May 3rd,** and I will either approve it or suggest changes in scope/difficulty.
+Do you have a project idea that you and your partner really want to build? (Maybe something with [openFrameworks](https://openframeworks.cc/), maybe something with cryptography?) You can send me your idea via e-mail or Discord by **Dec. 1st,** and I will either approve it or suggest changes in scope/difficulty.
 
 ## Due Dates
 
